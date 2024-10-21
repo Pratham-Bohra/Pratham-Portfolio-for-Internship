@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desk.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "coding setup";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Connect with me on Linkedin",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my Linkedin profile.",
+    url: "https://www.linkedin.com/in/pratham-bohra/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "RoadMap of Web Development for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is what I followed to start my journey in web development.",
+    url: "https://youtu.be/voXYG17rhQA?si=LauHF7xtD_CSxNdD",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created on Overleaf using latex. Includes my projects and skills.",
+    url: "https://docs.google.com/document/d/1VvzPi0xuoINVut-hGOwIm8wCp1Ht95cZFhGuL_qtl24/edit?tab=t.0",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My GitHub",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My GitHub profile consists of 10 repositories including this portfolio site.",
+    url: "https://github.com/Pratham-Bohra",
   },
 ];
 
